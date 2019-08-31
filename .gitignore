@@ -1,5 +1,4 @@
 .DS_Store
-<<<<<<< HEAD
 node_modules/
 /dist/
 npm-debug.log*
@@ -26,7 +25,6 @@ package-lock.json
 
 # Editor directories and files
 .idea
->>>>>>> 86733fcdb825c741c1447ce1f21f029f2e1e3cf2
 *.suo
 *.ntvs*
 *.njsproj
